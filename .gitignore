@@ -1,0 +1,11 @@
+# Unwanted files
+target
+*.png
+*.ttf
+
+# Backup files
+.DS_Store
+thumbs.db
+*~
+*.rs.bk
+*.swp

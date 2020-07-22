@@ -1,0 +1,13 @@
+[package]
+name = "pong"
+version = "0.1.0"
+authors = []
+edition = "2018"
+
+[dependencies.amethyst]
+version = "0.15"
+features = ["vulkan"]
+
+[dependencies.serde]
+version = "1.0"
+features = ["derive"]
