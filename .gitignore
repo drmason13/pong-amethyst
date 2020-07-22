@@ -1,7 +1,5 @@
 # Unwanted files
 target
-*.png
-*.ttf
 
 # Backup files
 .DS_Store
